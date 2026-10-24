@@ -9,7 +9,7 @@ Computer science student. I like products where math meets money: probabilistic 
 **[Probacast](https://probacast.com)** is a forecasting product for stocks and crypto. Instead of a single price target it shows the range of possible outcomes with their probabilities, across 1-day, 1-week, 1-month and 3-month horizons. Solo-built from the data layer to the website.
 
 - **Ensemble engine:** Monte Carlo simulation (GBM, historical bootstrap, GARCH, jump diffusion) combined with technical analysis, news sentiment and LightGBM
-- **Three markets:** Russian equities (MOEX ISS API), US equities and crypto (Bybit, Binance)
+- **Three markets:** Russian equities, US equities and crypto
 - **Two interfaces:** website at [probacast.com](https://probacast.com) and Telegram bot [@probacastbot](https://t.me/probacastbot)
 - **Self-hosted:** runs 24/7 on a Linux server I deploy and maintain
 
