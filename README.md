@@ -1,4 +1,4 @@
-### Building fintech, trading and AI tools in Python
+### Building fintech, trading and AI tools
 
 Computer science student. I like products where math meets money: probabilistic models, market data, Telegram bots and automation.
 
